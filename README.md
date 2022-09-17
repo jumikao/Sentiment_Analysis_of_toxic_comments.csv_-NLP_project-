@@ -1,5 +1,5 @@
 # Sentiment Analysis of toxic_comments.csv
-(Final project SDA)
+(Final project SDA Data Science course)
 
 "At the end of 2017, the Civil Comments platform shut down and chose to make their ~2m public comments from their platform available in a lasting open archive so that researchers could understand and improve civility in online conversations for years to come. 
 Jigsaw (a part of Google) sponsored this effort and extended annotation of this data by human raters for various toxic conversational attributes. "
