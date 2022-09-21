@@ -9,6 +9,6 @@ As a result the file "toxic_comments.csv" was built and released into data scien
 The task I set myself in this project is to build a model that recognizes the sentiment of the comments and possibly classifies them into hatred/non-hatred.
 
 This analysis was initally a project I worked on during my final assignment of SDA Data Science course. 
-I spent about 8 hours on this project during my data science course (1 working day) with the assistance of the mentor, and now I decided to develop it further as my own project.
+I spent about 8 hours on this project during my data science course (1 working day) with the assistance of the mentor, and now I decided to develop it further as my own project (project in progress).
 
 
